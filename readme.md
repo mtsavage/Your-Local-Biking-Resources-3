@@ -6,7 +6,7 @@
 >
 > Instructor: Bo Zhao | TA: Kyle R. Hogrefe | Location: LINC 368 | Time: Tuesday/Thursday 9-9:50am
 
-![](Your-Local-Biking-Resources-3/img/Corvallis3.jpg)
+![](img/Corvallis3.jpg)
 
 ------
 
