@@ -16,3 +16,5 @@ Corvallis, Oregon is home to many bicyclist of all ages. In order the support su
 Corvallis has an abundance of good resources for all things related to biking, from buying a new bike, where 
 to get lights, or to get fixes and tune ups. This story map displays and provides some information of some of
 these resources. 
+
+**Click to following link to view the storymap:** http://cdn.rawgit.com/mtsavage/Your-Local-Biking-Resources-3/0444beeb/index.html
